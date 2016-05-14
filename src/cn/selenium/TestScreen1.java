@@ -50,7 +50,7 @@ public class TestScreen1 {
 	}
 
 	@BeforeMethod
-	public void before() {
+	public void dd() {
 		driver = new FirefoxDriver();
 	}
 
