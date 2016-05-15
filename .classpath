@@ -56,5 +56,14 @@
 	<classpathentry kind="lib" path="libs/poi-ooxml-schemas-3.11-20141221.jar"/>
 	<classpathentry kind="lib" path="libs/poi-scratchpad-3.11-20141221.jar"/>
 	<classpathentry kind="lib" path="libs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
